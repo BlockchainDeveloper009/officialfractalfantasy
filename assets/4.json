@@ -1,0 +1,19 @@
+{
+    "name": "tri2_NFT",
+    "symbol": "tri2",
+    "image": "4.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "4.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "88dxWp8pu9XH6BuvTtomYennbAZyh8XM3wjFySLsD3ZD",
+          "share": 100
+        }
+      ]
+    }
+  }

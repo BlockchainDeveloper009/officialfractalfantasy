@@ -1,0 +1,19 @@
+{
+    "name": "quad1_NFT",
+    "symbol": "quad1",
+    "image": "1.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "H7Zg49M1RjDjT335Ez4BYTGP89qcxgAKLwfrDwPENvKa",
+          "share": 100
+        }
+      ]
+    }
+  }

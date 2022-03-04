@@ -1,0 +1,19 @@
+{
+    "name": "hexa2_NFT",
+    "symbol": "hexa2",
+    "image": "7.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "7.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BQ4o6MeXPEegVgdvas4ui7F1EDuGW4SDZsDPtwRDnsFY",
+          "share": 100
+        }
+      ]
+    }
+  }

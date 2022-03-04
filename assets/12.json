@@ -1,0 +1,19 @@
+{
+    "name": "tri7_NFT",
+    "symbol": "tri7",
+    "image": "12.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "12.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "Gziqn5y2C8sDPnYjJaewpzKTAyaVZNEoyQsEHk68ygZB",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "tri3_NFT",
+    "symbol": "tri3",
+    "image": "8.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "8.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EwqVbzxAukvbJnHWioZeepvVppYFvryF3JChZ6ad2MHK",
+          "share": 100
+        }
+      ]
+    }
+  }

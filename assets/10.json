@@ -1,0 +1,19 @@
+{
+    "name": "tri5_NFT",
+    "symbol": "tri5",
+    "image": "10.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "10.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "KQL8BL18Jf7XpbQyMZQ33voGsZnF5mt1vAEWvuXkZCG",
+          "share": 100
+        }
+      ]
+    }
+  }

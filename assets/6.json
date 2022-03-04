@@ -1,0 +1,19 @@
+{
+    "name": "penta2_NFT",
+    "symbol": "penta2",
+    "image": "6.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "6.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BQ4o6MeXPEegVgdvas4ui7F1EDuGW4SDZsDPtwRDnsFY",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "penta1_NFT",
+    "symbol": "penta1",
+    "image": "2.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "63o9VQZsVdnEwQD5LgoWToaNGsVwAXw5ewcSoAT9rqeL",
+          "share": 100
+        }
+      ]
+    }
+  }

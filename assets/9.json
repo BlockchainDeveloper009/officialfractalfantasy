@@ -1,0 +1,19 @@
+{
+    "name": "tri4_NFT",
+    "symbol": "tri4",
+    "image": "9.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "9.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8Tn7exYgTfcf17vLbRWJSMPvCgeb4mXZTLFahW9cgLxy",
+          "share": 100
+        }
+      ]
+    }
+  }
